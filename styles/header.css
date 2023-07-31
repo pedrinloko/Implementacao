@@ -1,5 +1,5 @@
 .cabecalho{
-    background-color:var(--cpr-do-cabecalho)
+    background-color:var(--cor-do-cabecalho)
 }
 .contaner{
     display: flex;
@@ -9,7 +9,7 @@
 .container_imagem, .container_frase{
     padding: 1em;
 }
-.cpmtainer_titulo, .container_frase{
+.container_titulo, .container_frase{
     display: none;
 }
 @media screen and (min-width:820px){
